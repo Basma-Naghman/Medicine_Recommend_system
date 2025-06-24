@@ -44,23 +44,6 @@ medicine-recommendation/
 ⚙️ Setup Instructions
 Clone the repository:
 
-bash
-git clone https://github.com/yourusername/medicine-recommendation.git
-cd medicine-recommendation
-Install dependencies:
-
-bash
-pip install -r requirements.txt
-Or install manually:
-
-bash
-pip install streamlit pandas numpy scikit-learn pillow
-Run the application:
-
-bash
-streamlit run app.py
-📊 Data Sources
-The application uses several CSV files containing:
 
 Disease symptoms and mappings
 
